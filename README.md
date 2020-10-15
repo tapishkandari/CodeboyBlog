@@ -15,7 +15,7 @@ CodeboyBlog
 博客可以简单的搭配微信小程序查看, 具体查看 [https://github.com/androiddevelop/WechatBlog](https://github.com/androiddevelop/WechatBlog)
 
 ## 安装方式:
-
+,
 1. 安装jeykll
 
 	```
